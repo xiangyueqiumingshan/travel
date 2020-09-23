@@ -6,32 +6,24 @@
 购票区：点击热销推荐的时候，会跳转至购票的页面，同时还能查看页面的相对应的景区图片
 
 
-## 未登录
 
-## 社区首页
+## 去哪儿网首页
 
 ![markdown](http://img2.haokoo.com/getImg.php?url=http://m.qpic.cn/psc?/V51KRHbI3nXX9J3AHMaE0Kwcwq4LYzQ6/bqQfVz5yrrGYSXMvKr.cqS9THQkPiyccNHC.zQ*nG*qw61KIOkD.44hegg1J4LxIwlcXuGAcWD9T0ZCmT.eVMKFz5Kq8XX.*hXUwFGzPLFA!/b&bo=LQEbAi0BGwIDByI!&rf=viewer_4)
 
-## 首页
+## 首页功能
 
-![markdown](http://m.qpic.cn/psc?/V51KRHbI3nXX9J3AHMaE0Kwcwq4LYzQ6/bqQfVz5yrrGYSXMvKr.cqS9THQkPiyccNHC.zQ*nG*qw61KIOkD.44hegg1J4LxIwlcXuGAcWD9T0ZCmT.eVMKFz5Kq8XX.*hXUwFGzPLFA!/b&bo=LQEbAi0BGwIDByI!&rf=viewer_4)
+![markdown](http://img2.haokoo.com/getImg.php?url=http://m.qpic.cn/psc?/V51KRHbI3nXX9J3AHMaE0Kwcwq4LYzQ6/TmEUgtj9EK6.7V8ajmQrEGRHFENU8vUQQOqCFxj.aB9QEmKs2zb4KYhtAyIxx5vb4ET9mR8PKx8f8d9zzBZi6lMhQhCv*Vpf70w5g64UzuA!/b&bo=LgEPAi4BDwIDJwI!&rf=viewer_4)
 
-## 搜索帖子
+## 城市列表
 
-![markdown](http://m.qpic.cn/psc?/V12P5Ftx2Qhc8x/FuOlPseFkXy6zf1*h9xoNsKxOOTNvUfzhiNjR1I..0bJV*vDk3MDEs7U0ZUSep6JllPEsIqEdMEkKYibmc4jC5.xNbKD3kyTosC7vjZrBSQ!/b&bo=gAfSAgAAAAADF2U!&rf=viewer_4)
+![markdown](http://img2.haokoo.com/getImg.php?url=http://m.qpic.cn/psc?/V51KRHbI3nXX9J3AHMaE0Kwcwq4LYzQ6/TmEUgtj9EK6.7V8ajmQrEGgrV3hjj5.AZis6jmF8kNtwsaUvnsM2qdxvrYMAaCi3v6Sz7y67hieLv6kXPzS5qp661zsGQbZo7EKnvMXb78o!/b&bo=KwEeAisBHgIDFzI!&rf=viewer_4)
 
-## 注册
-![markdown](http://m.qpic.cn/psc?/V12P5Ftx2Qhc8x/PBfbIKZtAJlvfOqE04IdJRU0nE0KVME16CwQ.sgM.mCncrYJaB2YAwQiuH4fipCkXEVqPKHTkAeQ642BLWbDRg!!/b&bo=IwTGAgAAAAARB9M!&rf=viewer_4)
-![markdown](http://m.qpic.cn/psc?/V12P5Ftx2Qhc8x/FuOlPseFkXy6zf1*h9xoNuK9X1g2sYfqxb1HJaBQi6c3Iz0XuOjyIOYK2fVsB3xHnEUPJu13vIaeDgKdbdCLYI0TbwXD2mi8wPW8nDcQw9w!/b&bo=IwSTAgAAAAARF5Y!&rf=viewer_4)
-![markdown](http://m.qpic.cn/psc?/V12P5Ftx2Qhc8x/FuOlPseFkXy6zf1*h9xoNhPbxeBsr*rWYZ94FmOOmDZV9vPeidI.Sqfv1*HfJExl4Be.G5JbKbiKgyUk40W2wHPR*XnHYbH3fiqGgFHUFCw!/b&bo=KQSIAQAAAAARF4Q!&rf=viewer_4)
+## 在城市列表输入进行搜索
+![markdown](http://img2.haokoo.com/getImg.php?url=http://m.qpic.cn/psc?/V51KRHbI3nXX9J3AHMaE0Kwcwq4LYzQ6/TmEUgtj9EK6.7V8ajmQrEOkTDAVzhDjETaRDUmpuDVKnTtdwFQHe*Zgi.k*13Jv4cD0OTWYrBF1FlnQzIRJpTuyWN6ENT91EzKRmP0d7qJg!/b&bo=LgEVAgAAAAADFwo!&rf=viewer_4)
 
-## 登录
 
-![markdown](http://m.qpic.cn/psc?/V12P5Ftx2Qhc8x/FuOlPseFkXy6zf1*h9xoNqQP16FJEcKCBH5G1FrVLu8MdiFGOqm8OrRuLtTLxelNH2jgFXTeywlg*BZY2pkwxbQxU47DzjSj5jCMX0VZk8E!/b&bo=gAfPAgAAAAADF3g!&rf=viewer_4)
+## 点击热销推荐购票
 
-## 登录完成
-## 社区首页
-![markdown](http://m.qpic.cn/psc?/V12P5Ftx2Qhc8x/FuOlPseFkXy6zf1*h9xoNvgJC7h2XCLggqk*tJC30Ycrk*6ZUGhSYlI39F2ewN455hREFPcHlvWcxPATuMzRi2W7MTYXnBiQhc1UOloqduo!/b&bo=gAesAwAAAAADFxo!&rf=viewer_4)
-##发帖(敏感词被屏蔽)
-![markdown](http://m.qpic.cn/psc?/V12P5Ftx2Qhc8x/FuOlPseFkXy6zf1*h9xoNo3dfadcP6OG9yeQWj.pNm8YqZy.tsa46DGz2fjTJ.ri*9UF*Adp38YETnkTRxKq2JSWDLlDNX*xJUGsy2MxJ10!/b&bo=gAePAwAAAAARFys!&rf=viewer_4)
-![markdown](http://m.qpic.cn/psc?/V12P5Ftx2Qhc8x/FuOlPseFkXy6zf1
+![markdown](http://img2.haokoo.com/getImg.php?url=http://m.qpic.cn/psc?/V51KRHbI3nXX9J3AHMaE0Kwcwq4LYzQ6/TmEUgtj9EK6.7V8ajmQrEO*Lmcjg*L9vx2cLSxZICCMqjD7Yh4C*x4f0r.3Rl2Iw8Y92waw3eu6nVgpZjlontOAMvgclOPrLv6JvFhBf6X4!/b&bo=LQEQAi0BEAIDFzI!&rf=viewer_4)
+
