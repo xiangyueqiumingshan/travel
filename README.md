@@ -20,10 +20,10 @@
 ![markdown](http://pic2.027cgb.com/632883/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200923110748.png)
 
 ## 在城市列表输入进行搜索
-![markdown](http://pic2.027cgb.com/632883/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200923110900.png)
+![markdown](http://pic2.027cgb.com/632883/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200923114700.png)
 
 
 ## 点击热销推荐购票
 
-![markdown](http://pic2.027cgb.com/632883/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200923114700.png)
+![markdown](http://pic2.027cgb.com/632883/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200923110900.png)
 
