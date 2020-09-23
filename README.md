@@ -10,7 +10,7 @@
 
 ## 社区首页
 
-![markdown](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://m.qpic.cn/psc?/V51KRHbI3nXX9J3AHMaE0Kwcwq4LYzQ6/bqQfVz5yrrGYSXMvKr.cqS9THQkPiyccNHC.zQ*nG*qw61KIOkD.44hegg1J4LxIwlcXuGAcWD9T0ZCmT.eVMKFz5Kq8XX.*hXUwFGzPLFA!/b&bo=LQEbAi0BGwIDByI!&rf=viewer_4)
+![markdown](http://img2.haokoo.com/getImg.php?url=http://m.qpic.cn/psc?/V51KRHbI3nXX9J3AHMaE0Kwcwq4LYzQ6/bqQfVz5yrrGYSXMvKr.cqS9THQkPiyccNHC.zQ*nG*qw61KIOkD.44hegg1J4LxIwlcXuGAcWD9T0ZCmT.eVMKFz5Kq8XX.*hXUwFGzPLFA!/b&bo=LQEbAi0BGwIDByI!&rf=viewer_4)
 
 ## 首页
 
